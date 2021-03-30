@@ -1,0 +1,10 @@
+Introduccion a la informatica
+
+Consigna
+
+1) Fue inventado por Linus Torvalds, su proposito es llevar un registro de los cambios que se realizan en un archivo por medio de commits, es un sistema de control versiones, y permite coordinar el trabajo de varias personas sobre un mismo proyecto o archivo.
+
+2)GitHub: Fue desarrollado por Crhis Wanstrath, pero en el 2018 fue comprado por  Microsoft por un total de 7500 millones de dolares. Es una plataforma de desarrollo colaborativo  donde se pueden guardar proyectos en repositorios remotos(Nube) utilizando el sistema de control de versiones de Git.
+
+
+3) Creo que es posible trabajar desde GitHub Desktop que es una aplicacion para escritorio.
